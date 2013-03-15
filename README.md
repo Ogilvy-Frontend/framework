@@ -1,4 +1,4 @@
 framework
 =========
 
-Framework para projetos Ogilvy
+Framework para projetos Ogilvy-Front
