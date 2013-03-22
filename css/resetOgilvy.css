@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #666666;
+}
+body .clear {
+  clear: both;
+  font-size: 0;
+  height: 0;
+  line-height: 0;
+}
+body .left {
+  float: left;
+}
+body .right {
+  float: right;
+}
+body .block {
+  display: block;
+}
+body .inline {
+  display: inline-block;
+}
+body .none {
+  display: none;
+}
+body .relative {
+  position: relative;
+}
+body .absolute {
+  position: absolute;
+}
+body .sumir {
+  overflow: hidden;
+  text-indent: -999em;
+}
